@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Full Stack Web Developer
 - 👀 I’m interested in making Signle Page Applications
-- 🌱 I’m currently learning Vue.js and advanced Laravel
+- 🌱 I’m currently learning Vue.js and Advanced Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/sayfullayevic
