@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Full Stack Web Developer
-- 👀 I’m interested in making Signle Page Applications with Vuejs
-- 🌱 I’m currently learning Advanced Golang
+- 👀 I’m interested in making Single Page Applications with Vuejs and Laravel
+- 🌱 I’m currently learning Advanced Golang and Advanced API Development in Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/sayfullayevic
